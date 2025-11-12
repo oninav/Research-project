@@ -14,115 +14,276 @@
     "text": "Proposed Research Questions\n\n\nTo what extent does consistent workout completion lead to a significant improvement in body fat percentage, e.g., meeting weekly or monthly targets?\n\nCan a Bayesian Structural Time Series (BSTS) model accurately forecast stagnation in key physiological metrics (e.g., body fat %, BMI) at least one week in advance?\n\nWhat distinct client clusters emerge from an unsupervised analysis of longitudinal activity and progress data (e.g., Fast Responders, At-Risk Plateauers)?\n\nHow can Resilience Index and Progress Ratio be quantitatively defined and operationalized, and do these metrics correlate with long-term user success and engagement?\n\n\n\n\n\nThe first research question focuses on causal analysis — examining how consistency in workouts impacts body composition metrics such as body fat percentage.\n\nThis will likely involve inferential tests or regression modeling to evaluate statistical significance of progress trends.\n\nThe second question explores a predictive approach, using a Bayesian Structural Time Series model to detect early signs of stagnation or plateau.\n\nThis helps evaluate whether models can forecast changes ahead of time, aiding proactive intervention.\n\nThe third question takes an unsupervised learning perspective, using clustering algorithms to segment users based on behavioral and physiological progress patterns.\n\nGroups such as Fast Responders or At-Risk Plateauers could provide personalized insight for adaptive fitness strategies.\n\nThe fourth question introduces new quantitative metrics — the Resilience Index and Progress Ratio — to measure sustained improvement and adaptability.\n\nStatistical testing will determine whether these custom indices correlate with long-term adherence and success, supporting interpretability and personalization goals.\n\n\nTogether, these questions create a cohesive research framework, connecting statistical methods, predictive analytics, and individualized feedback mechanisms."
   },
   {
-    "objectID": "Research Project.html#technical-details-and-domain-knowledge",
-    "href": "Research Project.html#technical-details-and-domain-knowledge",
+    "objectID": "Research Project.html#interdisciplinary-scope",
+    "href": "Research Project.html#interdisciplinary-scope",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Technical Details and Domain Knowledge",
-    "text": "Technical Details and Domain Knowledge\nInterdisciplinary Scope\n\n\nCombines statistics, exercise physiology, and wearable technology.\nUses synthetically generated data designed to reflect real-world exercise and lifestyle patterns.\nBridges the gap between data science and human performance understanding.\n\n\n\nThis project lies at the intersection of statistics, human physiology, and wearable technology.\nWhile the data are synthetically generated, they are modeled to mimic real-world fitness behavior, capturing patterns such as workout intensity, fatigue, and recovery.\nThe interdisciplinary aspect ensures that each simulated feature — like heart rate, steps, or calorie expenditure — has a physiological rationale behind it.\nStatistical tools are then used to interpret these patterns quantitatively, bridging the gap between theoretical modeling and practical fitness understanding."
+    "section": "Interdisciplinary Scope",
+    "text": "Interdisciplinary Scope\n\n\nCombines statistics, exercise physiology, and wearable technology.\nUses synthetically generated data designed to reflect real-world exercise and lifestyle patterns.\nBridges the gap between data science and human performance understanding.\n\n\n\nThis project lies at the intersection of statistics, human physiology, and wearable technology.\nWhile the data are synthetically generated, they are modeled to mimic real-world fitness behavior, capturing patterns such as workout intensity, fatigue, and recovery.\nThe interdisciplinary aspect ensures that each simulated feature — like heart rate, steps, or calorie expenditure — has a physiological rationale behind it.\nStatistical tools are then used to interpret these patterns quantitatively, bridging the gap between theoretical modeling and practical fitness understanding."
   },
   {
-    "objectID": "Research Project.html#technical-details-and-domain-knowledge-1",
-    "href": "Research Project.html#technical-details-and-domain-knowledge-1",
+    "objectID": "Research Project.html#personalization-and-adaptation",
+    "href": "Research Project.html#personalization-and-adaptation",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Technical Details and Domain Knowledge",
-    "text": "Technical Details and Domain Knowledge\nPersonalization and Adaptation\n\n\nApplies clustering to identify groups with similar fitness responses.\nUses adaptive models that update as new data are generated.\nEnables personalized progress tracking and interpretable metrics such as the Resilience Index and Progress Ratio.\n\n\n\nThe project emphasizes personalized analytics, moving beyond generic summaries.\nClustering techniques group individuals by behavioral or physiological patterns, identifying profiles such as “steady improvers” or “early plateau users.”\nAdaptive models allow real-time updating of predictions as new data become available, representing evolving user performance.\nPersonalized metrics like the Resilience Index and Progress Ratio translate raw statistical outputs into meaningful feedback, making the results interpretable and user-centered.\nThis adaptive approach reflects how modern health analytics aims to provide dynamic, individualized guidance rather than one-size-fits-all insights."
+    "section": "Personalization and Adaptation",
+    "text": "Personalization and Adaptation\n\n\nApplies clustering to identify groups with similar fitness responses.\nUses adaptive models that update as new data are generated.\nEnables personalized progress tracking and interpretable metrics such as the Resilience Index and Progress Ratio.\n\n\n\nThe project emphasizes personalized analytics, moving beyond generic summaries.\nClustering techniques group individuals by behavioral or physiological patterns, identifying profiles such as “steady improvers” or “early plateau users.”\nAdaptive models allow real-time updating of predictions as new data become available, representing evolving user performance.\nPersonalized metrics like the Resilience Index and Progress Ratio translate raw statistical outputs into meaningful feedback, making the results interpretable and user-centered.\nThis adaptive approach reflects how modern health analytics aims to provide dynamic, individualized guidance rather than one-size-fits-all insights."
   },
   {
-    "objectID": "Research Project.html#statistical-methodologies",
-    "href": "Research Project.html#statistical-methodologies",
+    "objectID": "Research Project.html#general-analysis",
+    "href": "Research Project.html#general-analysis",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Statistical Methodologies",
-    "text": "Statistical Methodologies\nGeneral Analysis\n\n\nDescriptive statistics to summarize fitness metrics (e.g., mean, variance, correlation).\nInferential tests to examine the impact of workout consistency on body fat %.\nRegression modeling to quantify relationships between input features and outcomes.\n\n\n\nThe study begins with descriptive statistics to explore distributions of variables like steps, calories, and body fat %.\nInferential tests (like t-tests or ANOVA) examine whether consistent workout completion leads to significant improvements, directly addressing Research Question 1.\nRegression modeling helps estimate the strength and direction of relationships between behavioral consistency and physiological changes."
+    "section": "General Analysis",
+    "text": "General Analysis\n\n\nDescriptive statistics to summarize fitness metrics (e.g., mean, variance, correlation).\nInferential tests to examine the impact of workout consistency on body fat %.\nRegression modeling to quantify relationships between input features and outcomes.\n\n\n\nThe study begins with descriptive statistics to explore distributions of variables like steps, calories, and body fat %.\nInferential tests (like t-tests or ANOVA) examine whether consistent workout completion leads to significant improvements, directly addressing Research Question 1.\nRegression modeling helps estimate the strength and direction of relationships between behavioral consistency and physiological changes."
   },
   {
-    "objectID": "Research Project.html#statistical-methodologies-1",
-    "href": "Research Project.html#statistical-methodologies-1",
+    "objectID": "Research Project.html#predictive-modeling",
+    "href": "Research Project.html#predictive-modeling",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Statistical Methodologies",
-    "text": "Statistical Methodologies\nPredictive Modeling\n\n\nBayesian Structural Time Series (BSTS) to forecast stagnation in metrics like body fat % or BMI.\nModel validation through posterior predictive checks and forecast accuracy measures (e.g., MAE, RMSE).\nHelps in early detection of plateaus and performance forecasting.\n\n\n\nFor Research Question 2, a Bayesian Structural Time Series (BSTS) model is used to forecast stagnation in fitness metrics.\nThis model handles time-dependent variation and uncertainty effectively, allowing predictions with credible intervals.\nBy comparing predicted vs. observed patterns, the system can flag likely plateau periods at least a week in advance.\nValidation metrics such as MAE (Mean Absolute Error) and RMSE (Root Mean Square Error) evaluate model accuracy."
+    "section": "Predictive Modeling",
+    "text": "Predictive Modeling\n\n\nBayesian Structural Time Series (BSTS) to forecast stagnation in metrics like body fat % or BMI.\nModel validation through posterior predictive checks and forecast accuracy measures (e.g., MAE, RMSE).\nHelps in early detection of plateaus and performance forecasting.\n\n\n\nFor Research Question 2, a Bayesian Structural Time Series (BSTS) model is used to forecast stagnation in fitness metrics.\nThis model handles time-dependent variation and uncertainty effectively, allowing predictions with credible intervals.\nBy comparing predicted vs. observed patterns, the system can flag likely plateau periods at least a week in advance.\nValidation metrics such as MAE (Mean Absolute Error) and RMSE (Root Mean Square Error) evaluate model accuracy."
   },
   {
-    "objectID": "Research Project.html#statistical-methodologies-2",
-    "href": "Research Project.html#statistical-methodologies-2",
+    "objectID": "Research Project.html#unsupervised-learning",
+    "href": "Research Project.html#unsupervised-learning",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Statistical Methodologies",
-    "text": "Statistical Methodologies\nUnsupervised Learning\n\n\nClustering algorithms (e.g., K-Means, Hierarchical, or DBSCAN) to segment users.\nIdentify behavioral groups such as Fast Responders or At-Risk Plateauers.\nUse Principal Component Analysis (PCA) for dimensionality reduction and visualization.\n\n\n\nAddressing Research Question 3, clustering methods help uncover natural groupings among individuals based on fitness behavior and outcomes.\nExamples include Fast Responders, who improve quickly; Gradual Improvers, who progress steadily; and At-Risk Plateauers, whose improvement slows down early.\nPCA (Principal Component Analysis) aids in visualizing these clusters and reducing redundancy in correlated fitness variables."
+    "section": "Unsupervised Learning",
+    "text": "Unsupervised Learning\n\n\nClustering algorithms (e.g., K-Means, Hierarchical, or DBSCAN) to segment users.\nIdentify behavioral groups such as Fast Responders or At-Risk Plateauers.\nUse Principal Component Analysis (PCA) for dimensionality reduction and visualization.\n\n\n\nAddressing Research Question 3, clustering methods help uncover natural groupings among individuals based on fitness behavior and outcomes.\nExamples include Fast Responders, who improve quickly; Gradual Improvers, who progress steadily; and At-Risk Plateauers, whose improvement slows down early.\nPCA (Principal Component Analysis) aids in visualizing these clusters and reducing redundancy in correlated fitness variables."
   },
   {
-    "objectID": "Research Project.html#statistical-methodologies-3",
-    "href": "Research Project.html#statistical-methodologies-3",
+    "objectID": "Research Project.html#custom-metrics-and-correlation",
+    "href": "Research Project.html#custom-metrics-and-correlation",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Statistical Methodologies",
-    "text": "Statistical Methodologies\nCustom Metrics and Correlation\n\n\nDefine Resilience Index (recovery and adaptability measure) and Progress Ratio (rate of improvement).\nValidate these metrics using correlation and regression analysis against long-term success indicators.\n\n\n\nResearch Question 4 introduces two new quantitative indices — the Resilience Index and Progress Ratio.\nThe Resilience Index measures how effectively a user recovers performance after lapses, while the Progress Ratio compares observed vs. expected improvement.\nStatistical tests and correlation analysis will verify if these metrics significantly associate with long-term engagement and success.\nTogether, these methods create a comprehensive analytical pipeline — from data description and forecasting to clustering and personalization."
+    "section": "Custom Metrics and Correlation",
+    "text": "Custom Metrics and Correlation\n\n\nDefine Resilience Index (recovery and adaptability measure) and Progress Ratio (rate of improvement).\nValidate these metrics using correlation and regression analysis against long-term success indicators.\n\n\n\nResearch Question 4 introduces two new quantitative indices — the Resilience Index and Progress Ratio.\nThe Resilience Index measures how effectively a user recovers performance after lapses, while the Progress Ratio compares observed vs. expected improvement.\nStatistical tests and correlation analysis will verify if these metrics significantly associate with long-term engagement and success.\nTogether, these methods create a comprehensive analytical pipeline — from data description and forecasting to clustering and personalization."
   },
   {
-    "objectID": "Research Project.html#proposed-analytical-pipeline-flow",
-    "href": "Research Project.html#proposed-analytical-pipeline-flow",
+    "objectID": "Research Project.html#rq1-causal-effect-of-workout-consistency",
+    "href": "Research Project.html#rq1-causal-effect-of-workout-consistency",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Proposed Analytical Pipeline & Flow",
-    "text": "Proposed Analytical Pipeline & Flow\n\nThe analytical workflow integrates data preprocessing, sampling, and four core research questions (RQ1–RQ4).\n\nCovers causal inference, time-series forecasting, clustering, and personalized metric modeling.\n\nRQ1 – Causal Effect of Workout Consistency\n\n\nEstimate effect of workout consistency on body fat % using Marginal Structural Models (MSM).\n\nApply Inverse Probability of Treatment Weighting (IPTW) for bias adjustment.\n\nValidate robustness through sensitivity and model diagnostics.\n\n\n\nThis analytical pipeline links all four research questions into a single cohesive workflow.\nThe process begins with data preprocessing and sampling, ensuring that the synthetic dataset accurately mimics the structure of real fitness data — complete with variability, missing values, and time-dependent changes.\nEach research question (RQ1–RQ4) corresponds to a specific analytical module, progressing from causal inference to personalization.\nRQ1 – Causal Effect of Workout Consistency:\nThe goal here is to estimate how consistent workouts influence body fat percentage.\nUsing Marginal Structural Models (MSM) helps correct for time-dependent confounding, common in longitudinal data.\nInverse Probability of Treatment Weighting (IPTW) assigns weights to each observation based on consistency levels, ensuring unbiased causal estimates.\nModel robustness will be tested through sensitivity analysis and cross-validation."
+    "section": "RQ1 – Causal Effect of Workout Consistency",
+    "text": "RQ1 – Causal Effect of Workout Consistency\n\n\nEstimate effect of workout consistency on body fat % using Marginal Structural Models (MSM).\n\nApply Inverse Probability of Treatment Weighting (IPTW) for bias adjustment.\n\nValidate robustness through sensitivity and model diagnostics.\n\n\n\nThis analytical pipeline links all four research questions into a single cohesive workflow.\nThe process begins with data preprocessing and sampling, ensuring that the synthetic dataset accurately mimics the structure of real fitness data — complete with variability, missing values, and time-dependent changes.\nEach research question (RQ1–RQ4) corresponds to a specific analytical module, progressing from causal inference to personalization.\nRQ1 – Causal Effect of Workout Consistency:\nThe goal here is to estimate how consistent workouts influence body fat percentage.\nUsing Marginal Structural Models (MSM) helps correct for time-dependent confounding, common in longitudinal data.\nInverse Probability of Treatment Weighting (IPTW) assigns weights to each observation based on consistency levels, ensuring unbiased causal estimates.\nModel robustness will be tested through sensitivity analysis and cross-validation."
   },
   {
-    "objectID": "Research Project.html#proposed-analytical-pipeline-flow-1",
-    "href": "Research Project.html#proposed-analytical-pipeline-flow-1",
+    "objectID": "Research Project.html#rq2-plateau-forecasting",
+    "href": "Research Project.html#rq2-plateau-forecasting",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Proposed Analytical Pipeline & Flow",
-    "text": "Proposed Analytical Pipeline & Flow\nRQ2 – Plateau Forecasting\n\n\nFit Bayesian Structural Time Series (BSTS) models to forecast stagnation in fat %.\n\nEvaluate forecast accuracy using posterior probabilities, precision, recall, and calibration curves.\n\n\n\nRQ2 – Plateau Forecasting:\nFor predicting stagnation in progress, Bayesian Structural Time Series (BSTS) models are ideal because they can incorporate trends, seasonality, and uncertainty.\nThe model outputs posterior probability distributions for future values of key metrics like body fat % and BMI.\nForecast performance is evaluated using precision, recall, and calibration curves, ensuring both reliability and interpretability.\nThis supports proactive identification of plateaus before they occur."
+    "section": "RQ2 – Plateau Forecasting",
+    "text": "RQ2 – Plateau Forecasting\n\n\nFit Bayesian Structural Time Series (BSTS) models to forecast stagnation in fat %.\n\nEvaluate forecast accuracy using posterior probabilities, precision, recall, and calibration curves.\n\n\n\nRQ2 – Plateau Forecasting:\nFor predicting stagnation in progress, Bayesian Structural Time Series (BSTS) models are ideal because they can incorporate trends, seasonality, and uncertainty.\nThe model outputs posterior probability distributions for future values of key metrics like body fat % and BMI.\nForecast performance is evaluated using precision, recall, and calibration curves, ensuring both reliability and interpretability.\nThis supports proactive identification of plateaus before they occur."
   },
   {
-    "objectID": "Research Project.html#proposed-analytical-pipeline-flow-2",
-    "href": "Research Project.html#proposed-analytical-pipeline-flow-2",
+    "objectID": "Research Project.html#rq3-user-segmentation",
+    "href": "Research Project.html#rq3-user-segmentation",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Proposed Analytical Pipeline & Flow",
-    "text": "Proposed Analytical Pipeline & Flow\nRQ3 – User Segmentation\n\n\nPerform Principal Component Analysis (PCA) for dimensionality reduction.\n\nIdentify clusters using K-Means and Bayesian Gaussian Mixture Models (BGMM).\n\nValidate cluster stability and interpret behavioral–physiological profiles.\n\n\n\nRQ3 – User Segmentation:\nThis step addresses individual variability by segmenting users based on fitness and behavioral trends.\nPCA simplifies complex feature spaces into principal components that capture most of the variance.\nK-Means and Bayesian Gaussian Mixture Models (BGMM) are then used to identify groups such as Fast Responders or At-Risk Plateauers.\nCluster validation and profiling provide interpretable insights into different user categories"
+    "section": "RQ3 – User Segmentation",
+    "text": "RQ3 – User Segmentation\n\n\nPerform Principal Component Analysis (PCA) for dimensionality reduction.\n\nIdentify clusters using K-Means and Bayesian Gaussian Mixture Models (BGMM).\n\nValidate cluster stability and interpret behavioral–physiological profiles.\n\n\n\nRQ3 – User Segmentation:\nThis step addresses individual variability by segmenting users based on fitness and behavioral trends.\nPCA simplifies complex feature spaces into principal components that capture most of the variance.\nK-Means and Bayesian Gaussian Mixture Models (BGMM) are then used to identify groups such as Fast Responders or At-Risk Plateauers.\nCluster validation and profiling provide interpretable insights into different user categories"
   },
   {
-    "objectID": "Research Project.html#proposed-analytical-pipeline-flow-3",
-    "href": "Research Project.html#proposed-analytical-pipeline-flow-3",
+    "objectID": "Research Project.html#rq4-personalized-metrics",
+    "href": "Research Project.html#rq4-personalized-metrics",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Proposed Analytical Pipeline & Flow",
-    "text": "Proposed Analytical Pipeline & Flow\nRQ4 – Personalized Metrics\n\n\nCompute Progress Ratio and Resilience Index from user trajectories.\n\nAssess associations using OLS regression and Cox survival models.\n\nApply SHAP values for interpretability and insight into feature importance.\n\n\n\nHere, the project introduces custom indices:\nProgress Ratio – measures observed vs. expected rate of progress.\nResilience Index – quantifies recovery and adaptability after lapses.\nRelationships between these metrics and long-term success are modeled using Ordinary Least Squares (OLS) and Cox regression.\nFinally, SHAP (SHapley Additive exPlanations) enhances model transparency, showing which variables most strongly influence these personalized outcomes."
+    "section": "RQ4 – Personalized Metrics",
+    "text": "RQ4 – Personalized Metrics\n\n\nCompute Progress Ratio and Resilience Index from user trajectories.\n\nAssess associations using OLS regression and Cox survival models.\n\nApply SHAP values for interpretability and insight into feature importance.\n\n\n\nHere, the project introduces custom indices:\nProgress Ratio – measures observed vs. expected rate of progress.\nResilience Index – quantifies recovery and adaptability after lapses.\nRelationships between these metrics and long-term success are modeled using Ordinary Least Squares (OLS) and Cox regression.\nFinally, SHAP (SHapley Additive exPlanations) enhances model transparency, showing which variables most strongly influence these personalized outcomes."
   },
   {
     "objectID": "Research Project.html#details-about-the-data",
     "href": "Research Project.html#details-about-the-data",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
     "section": "Details About the Data",
-    "text": "Details About the Data\n\n\n\n\n\n\n\n\n\n\nCategory\nVariables\nDistribution\nStatistical Justification\n\n\n\n\nPhysical & Biometric\nHeight, Weight, Chest, Waist, Neck, BMI\nTruncated Normal\nReflects natural variation; truncation ensures realistic physiological limits; preserves proportional relationships among traits\n\n\nBehavioral & Categorical\nExercise Schedule, Consistency, Gender\nBernoulli / Categorical\nDiscrete behavioral variables; probabilities reflect empirical proportions\n\n\nExercise Performance\nSets, Reps, Weight Lifted\nLog-Normal / Discrete Normal\nCaptures skewed exercise output; discrete normal for symmetric count data like reps\n\n\nTemporal Progress\nWeekly Weight, Body Fat %, Caloric Change\nAR(1) / Logistic Decay\nModels temporal autocorrelation and diminishing returns in physiological adaptation\n\n\nLifestyle\nSleep Hours, Calories Burned\nUniform / Normal\nCaptures wide individual variability without strong skew\n\n\n\n\n\nWe generated all data synthetically to reflect realistic fitness profiles. Physical traits used truncated normal distributions for physiological plausibility. Behavioral variables were categorical, based on typical population proportions. Exercise performance metrics accounted for skewed or symmetric distributions, and temporal progress variables followed AR(1) or logistic decay to mimic week-to-week adaptation. Lifestyle metrics were generated with uniform or normal distributions to reflect natural variability across individuals."
+    "text": "Details About the Data\n\n\n\n\n\n\n\n\n\n\n\nCategory\nVariables\nDistribution\nStatistical Justification\n\n\n\n\nPhysical & Biometric\nHeight, Weight, Chest, Waist, Neck, BMI\nTruncated Normal\nReflects natural variation; truncation ensures realistic physiological limits; preserves proportional relationships among traits\n\n\nBehavioral & Categorical\nExercise Schedule, Consistency, Gender\nBernoulli / Categorical\nDiscrete behavioral variables; probabilities reflect empirical proportions\n\n\nExercise Performance\nSets, Reps, Weight Lifted\nLog-Normal / Discrete Normal\nCaptures skewed exercise output; discrete normal for symmetric count data like reps\n\n\nTemporal Progress\nWeekly Weight, Body Fat %, Caloric Change\nAR(1) / Logistic Decay\nModels temporal autocorrelation and diminishing returns in physiological adaptation\n\n\nLifestyle\nSleep Hours, Calories Burned\nUniform / Normal\nCaptures wide individual variability without strong skew\n\n\n\n\n\n\nWe generated all data synthetically to reflect realistic fitness profiles. Physical traits used truncated normal distributions for physiological plausibility. Behavioral variables were categorical, based on typical population proportions. Exercise performance metrics accounted for skewed or symmetric distributions, and temporal progress variables followed AR(1) or logistic decay to mimic week-to-week adaptation. Lifestyle metrics were generated with uniform or normal distributions to reflect natural variability across individuals."
   },
   {
-    "objectID": "Research Project.html#summary-of-research-papers",
-    "href": "Research Project.html#summary-of-research-papers",
+    "objectID": "Research Project.html#piwek-et-al.-2016-the-rise-of-consumer-health-wearables",
+    "href": "Research Project.html#piwek-et-al.-2016-the-rise-of-consumer-health-wearables",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Summary of Research Papers",
-    "text": "Summary of Research Papers\nPiwek et al. (2016) — The Rise of Consumer Health Wearables\n\n\nDiscusses the exponential growth of wearable health technology and its potential for personalized analytics.\n\nHighlights barriers like data accuracy, non-adherence, and missingness, motivating rigorous statistical modeling of behavioral data.\n\nEstablishes the need for predictive, interpretable models beyond descriptive tracking.\n\n\n\nThis paper provides the motivational and empirical foundation for the entire project. Piwek and colleagues discuss the exponential rise of consumer-grade wearables and their potential to collect continuous physiological and behavioral data.\nHowever, they emphasize three major issues:\n\nMeasurement error due to low-cost sensor hardware,\nUser non-adherence, leading to incomplete or biased time series, and\nLack of analytical frameworks that move beyond descriptive metrics such as steps or calories.\n\nThese limitations directly motivate the statistical rigor of our approach.\nThus, this paper not only contextualizes the data domain but also informs the design of our simulation assumptions. It highlights the need for predictive, causal, and personalized statistical models—the exact focus of our analytical pipeline."
+    "section": "Piwek et al. (2016) — The Rise of Consumer Health Wearables",
+    "text": "Piwek et al. (2016) — The Rise of Consumer Health Wearables\n\n\nDiscusses the exponential growth of wearable health technology and its potential for personalized analytics.\n\nHighlights barriers like data accuracy, non-adherence, and missingness, motivating rigorous statistical modeling of behavioral data.\n\nEstablishes the need for predictive, interpretable models beyond descriptive tracking.\n\n\n\nThis paper provides the motivational and empirical foundation for the entire project. Piwek and colleagues discuss the exponential rise of consumer-grade wearables and their potential to collect continuous physiological and behavioral data.\nHowever, they emphasize three major issues:\n\nMeasurement error due to low-cost sensor hardware,\nUser non-adherence, leading to incomplete or biased time series, and\nLack of analytical frameworks that move beyond descriptive metrics such as steps or calories.\n\nThese limitations directly motivate the statistical rigor of our approach.\nThus, this paper not only contextualizes the data domain but also informs the design of our simulation assumptions. It highlights the need for predictive, causal, and personalized statistical models—the exact focus of our analytical pipeline."
   },
   {
-    "objectID": "Research Project.html#summary-of-research-papers-1",
-    "href": "Research Project.html#summary-of-research-papers-1",
+    "objectID": "Research Project.html#fitzmaurice-et-al.-2011-applied-longitudinal-analysis",
+    "href": "Research Project.html#fitzmaurice-et-al.-2011-applied-longitudinal-analysis",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Summary of Research Papers",
-    "text": "Summary of Research Papers\nFitzmaurice et al. (2011) — Applied Longitudinal Analysis\n\n\nProvides a rigorous framework for modeling repeated measures with correlated errors.\n\nEmphasizes time-dependent confounding and the limitations of standard regression approaches.\n\nDirectly supports our Marginal Structural Models (MSM) and Inverse Probability of Treatment Weighting (IPTW) approach in RQ1.\n\nEnsures causal validity when estimating effects of workout consistency on body fat percentage.\n\n\n\nFitzmaurice et al. provide the theoretical backbone for modeling correlated repeated measures in longitudinal data. The key insight from this work is that time-dependent confounding—when past outcomes influence both current exposures and future results—can bias naive regression models.\nTo address this, they outline frameworks like Marginal Structural Models (MSMs) with Inverse Probability of Treatment Weighting (IPTW). This directly informs RQ1, where we assess the causal effect of workout consistency on body fat percentage.\nMSMs are chosen over GEEs because they allow causal interpretation by weighting observations based on treatment assignment probabilities, thus restoring exchangeability over time. The text also clarifies how to handle intra-subject correlation, autocorrelation, and robust variance estimation, ensuring our causal model is statistically valid and unbiased. In short, this reference underpins the causal inference architecture of the project."
+    "section": "Fitzmaurice et al. (2011) — Applied Longitudinal Analysis",
+    "text": "Fitzmaurice et al. (2011) — Applied Longitudinal Analysis\n\n\nProvides a rigorous framework for modeling repeated measures with correlated errors.\n\nEmphasizes time-dependent confounding and the limitations of standard regression approaches.\n\nDirectly supports our Marginal Structural Models (MSM) and Inverse Probability of Treatment Weighting (IPTW) approach in RQ1.\n\nEnsures causal validity when estimating effects of workout consistency on body fat percentage.\n\n\n\nFitzmaurice et al. provide the theoretical backbone for modeling correlated repeated measures in longitudinal data. The key insight from this work is that time-dependent confounding—when past outcomes influence both current exposures and future results—can bias naive regression models.\nTo address this, they outline frameworks like Marginal Structural Models (MSMs) with Inverse Probability of Treatment Weighting (IPTW). This directly informs RQ1, where we assess the causal effect of workout consistency on body fat percentage.\nMSMs are chosen over GEEs because they allow causal interpretation by weighting observations based on treatment assignment probabilities, thus restoring exchangeability over time. The text also clarifies how to handle intra-subject correlation, autocorrelation, and robust variance estimation, ensuring our causal model is statistically valid and unbiased. In short, this reference underpins the causal inference architecture of the project."
   },
   {
-    "objectID": "Research Project.html#summary-of-research-papers-2",
-    "href": "Research Project.html#summary-of-research-papers-2",
+    "objectID": "Research Project.html#james-et-al.-2013-hastie-et-al.-2009-statistical-learning-foundations",
+    "href": "Research Project.html#james-et-al.-2013-hastie-et-al.-2009-statistical-learning-foundations",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Summary of Research Papers",
-    "text": "Summary of Research Papers\nJames et al. (2013) & Hastie et al. (2009) — Statistical Learning Foundations\n\n\nTogether, these texts define the statistical learning theory guiding model design and validation.\n\nProvide a foundation for regression, classification, clustering, PCA, and regularization.\n\nSupport RQ3 (user segmentation) through dimensionality reduction (PCA) and Bayesian Gaussian Mixture Models (BGMM).\n\nEmphasize the bias–variance tradeoff, cross-validation, and generalization performance in predictive modeling.\n\n\n\nJames et al. (2013) & Hastie, Tibshirani, & Friedman (2009)\n(An Introduction to Statistical Learning & The Elements of Statistical Learning)\nThese two texts together form the statistical learning foundation of our methodology. James et al. (2013) offers a conceptual and practical framework for regression, classification, and clustering, while Hastie et al. (2009) provides the mathematical rigor behind advanced methods like regularization, kernel methods, and ensemble learning.\nTheir relevance spans multiple research questions:\nFor RQ3, they inform dimensionality reduction (PCA) and clustering (K-Means, Gaussian Mixture Models).\nFor RQ4, they guide model selection and cross-validation, ensuring generalization beyond the training sample.\nMoreover, they help articulate the bias–variance trade-off, reminding us that interpretability and predictive power must be balanced. Together, these texts ensure the machine learning components of our project remain statistically principled."
+    "section": "James et al. (2013) & Hastie et al. (2009) — Statistical Learning Foundations",
+    "text": "James et al. (2013) & Hastie et al. (2009) — Statistical Learning Foundations\n\n\nTogether, these texts define the statistical learning theory guiding model design and validation.\n\nProvide a foundation for regression, classification, clustering, PCA, and regularization.\n\nSupport RQ3 (user segmentation) through dimensionality reduction (PCA) and Bayesian Gaussian Mixture Models (BGMM).\n\nEmphasize the bias–variance tradeoff, cross-validation, and generalization performance in predictive modeling.\n\n\n\nJames et al. (2013) & Hastie, Tibshirani, & Friedman (2009)\n(An Introduction to Statistical Learning & The Elements of Statistical Learning)\nThese two texts together form the statistical learning foundation of our methodology. James et al. (2013) offers a conceptual and practical framework for regression, classification, and clustering, while Hastie et al. (2009) provides the mathematical rigor behind advanced methods like regularization, kernel methods, and ensemble learning.\nTheir relevance spans multiple research questions:\nFor RQ3, they inform dimensionality reduction (PCA) and clustering (K-Means, Gaussian Mixture Models).\nFor RQ4, they guide model selection and cross-validation, ensuring generalization beyond the training sample.\nMoreover, they help articulate the bias–variance trade-off, reminding us that interpretability and predictive power must be balanced. Together, these texts ensure the machine learning components of our project remain statistically principled."
   },
   {
-    "objectID": "Research Project.html#summary-of-research-papers-3",
-    "href": "Research Project.html#summary-of-research-papers-3",
+    "objectID": "Research Project.html#klein-moeschberger-2012-survival-analysis-techniques-for-censored-and-truncated-data",
+    "href": "Research Project.html#klein-moeschberger-2012-survival-analysis-techniques-for-censored-and-truncated-data",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Summary of Research Papers",
-    "text": "Summary of Research Papers\nKlein & Moeschberger (2012) — Survival Analysis: Techniques for Censored and Truncated Data\n\n\nFormalizes methods for handling censored and time-to-event data.\n\nSupports modeling of time-to-goal achievement as a survival process.\n\nEnables linking Resilience Index and Progress Ratio with probability of long-term success using Cox proportional hazards models.\n\nIntegrates traditional survival analysis with predictive modeling for personalized insight.\n\n\n\nKlein & Moeschberger (2012) — Survival Analysis: Techniques for Censored and Truncated Data\nFinally, Klein and Moeschberger introduce the formal tools for survival and event-time analysis, essential for our personalized outcome modeling. We use their framework to analyze time-to-goal achievement—for example, how long it takes a participant to reach their target body fat percentage or fitness milestone.\nBy linking Resilience Index and Progress Ratio to the hazard function in a Cox proportional hazards model, we quantify how resilience influences persistence and success. This enables interpretation such as: “A one-unit increase in Resilience Index reduces the risk of dropout by X%.”\nThe book’s emphasis on handling censored observations and validating proportional hazards assumptions ensures statistical rigor in longitudinal outcome modeling. This connects behavioral modeling with clinical-grade statistical reliability."
+    "section": "Klein & Moeschberger (2012) — Survival Analysis: Techniques for Censored and Truncated Data",
+    "text": "Klein & Moeschberger (2012) — Survival Analysis: Techniques for Censored and Truncated Data\n\n\nFormalizes methods for handling censored and time-to-event data.\n\nSupports modeling of time-to-goal achievement as a survival process.\n\nEnables linking Resilience Index and Progress Ratio with probability of long-term success using Cox proportional hazards models.\n\nIntegrates traditional survival analysis with predictive modeling for personalized insight.\n\n\n\nKlein & Moeschberger (2012) — Survival Analysis: Techniques for Censored and Truncated Data\nFinally, Klein and Moeschberger introduce the formal tools for survival and event-time analysis, essential for our personalized outcome modeling. We use their framework to analyze time-to-goal achievement—for example, how long it takes a participant to reach their target body fat percentage or fitness milestone.\nBy linking Resilience Index and Progress Ratio to the hazard function in a Cox proportional hazards model, we quantify how resilience influences persistence and success. This enables interpretation such as: “A one-unit increase in Resilience Index reduces the risk of dropout by X%.”\nThe book’s emphasis on handling censored observations and validating proportional hazards assumptions ensures statistical rigor in longitudinal outcome modeling. This connects behavioral modeling with clinical-grade statistical reliability."
   },
   {
-    "objectID": "Research Project.html#thank-you",
-    "href": "Research Project.html#thank-you",
+    "objectID": "Research Project.html#consistency-definition",
+    "href": "Research Project.html#consistency-definition",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
-    "section": "Thank You",
-    "text": "Thank You\nAdvanced Statistical Analysis of Fitness Data for Predictive Insights and Personalization\nPresented by:\nPurva Puranik M.Sc. Statistics\nOmkar Ninav\nM.Sc. Statistics\nQuestions & Discussion\n\nIntegrating statistical theory with behavioral science for actionable fitness analytics.\n\n\n\n\n\nDES Pune University | Research Project (SMST604)"
+    "section": "Consistency Definition",
+    "text": "Consistency Definition\n\n\nThe consistency variable was defined based on the WHO threshold of 150 minutes per week.\nConsistent = 1\nInconsistent = 0\nThis consistency is measured at the week level, not for a particular client.\nConsistency Percentage:\n\nConsistent (1): 84.62%\nInconsistent (0): 15.38%\n\n\n\n\nThis slide introduces the first set of results for Research Question 1, focusing on how workout consistency is defined and measured."
+  },
+  {
+    "objectID": "Research Project.html#output-of-msm-weighted-least-squares-body-fat",
+    "href": "Research Project.html#output-of-msm-weighted-least-squares-body-fat",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Output of MSM (weighted least squares – Body fat%)",
+    "text": "Output of MSM (weighted least squares – Body fat%)"
+  },
+  {
+    "objectID": "Research Project.html#hypothesis-and-interpretation",
+    "href": "Research Project.html#hypothesis-and-interpretation",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Hypothesis and Interpretation",
+    "text": "Hypothesis and Interpretation\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredictor\nNull Hypothesis (H₀)\nAlternative Hypothesis (H₁)\nCoefficient (β)\nP value\nInterpretation\n\n\n\n\nConsistency\n\\(\\beta_1 = 0\\)  Workout consistency has no causal effect on body fat percentage.\n\\(\\beta_1 \\neq 0\\)  Workout consistency has a causal effect on body fat percentage.\n+0.042\n0.077\nAccept H₀.  No immediate casual decrease in body fat%.\n\n\nWeek (Time)\n\\(\\beta_2 = 0\\)  Time has no effect on fat percentage.\n\\(\\beta_2 \\neq 0\\)  Time has a significant effect on fat percentage.\n+0.169\n&lt; 0.001\nReject H₀.  Body fat% increases slightly each week, suggesting plateau formation or body composition adaptation.\n\n\nWeight (kg)\n\\(\\beta_3 = 0\\)  Body weight has no effect on fat percentage\n\\(\\beta_3 \\neq 0\\)  Body weight has a significant effect on fat percentage\n-0.0345\n&lt; 0.001\nReject H₀.  Strong evidence that lower weight corresponds to lower fat%. Confirms physiological relationship.\n\n\nAverage Sleep Hours\n\\(\\beta_4 = 0\\)  Sleep duration has no effect on fat percentage\n\\(\\beta_4 \\neq 0\\)  Sleep duration has significant effect on fat percentage\n+0.068\n&lt; 0.001\nReject H₀.  Small effect, not meaningful in real-world terms.\n\n\nIntercept\n\\(\\beta_0 = 0\\)  No baseline body fat\n\\(\\beta_0 \\neq 0\\)  Nonzero baseline body fat\n15.49\n&lt; 0.001\nReject H₀.  Average baseline fat% is approximately 15.5%."
+  },
+  {
+    "objectID": "Research Project.html#overall-hypothesis",
+    "href": "Research Project.html#overall-hypothesis",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Overall Hypothesis",
+    "text": "Overall Hypothesis\n\n\n\n\n\n\n\n\n\n\n\nType\nNull Hypothesis (H₀)\nAlternative Hypothesis (H₁)\nDecision\n\n\n\n\nModel-level F-test\n\\(H_0 : \\beta_1 = \\beta_2 = \\beta_3 = \\beta_4 = 0\\)  None of the predictors explain variation in fat%.\n\\(H_1 : \\text{At least one } \\beta_i \\neq 0.\\)\nF = 10,260, \\(p &lt; 0.001 \\to\\)  Reject \\(H_0\\). Model is statistically significant."
+  },
+  {
+    "objectID": "Research Project.html#output-of-msm-weighted-least-squares-bmi",
+    "href": "Research Project.html#output-of-msm-weighted-least-squares-bmi",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Output of MSM (weighted least squares – BMI)",
+    "text": "Output of MSM (weighted least squares – BMI)"
+  },
+  {
+    "objectID": "Research Project.html#hypothesis-and-interpretation-1",
+    "href": "Research Project.html#hypothesis-and-interpretation-1",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Hypothesis and Interpretation",
+    "text": "Hypothesis and Interpretation\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPredictor\nNull Hypothesis (H₀)\nAlternative Hypothesis (H₁)\nDecision\nCoefficient (β)\nP value\nInterpretation\n\n\n\n\nConsistency\n\\(\\beta_1 = 0\\)  Consistency has no effect on BMI\n\\(\\beta_1 \\neq 0\\)  Consistency has significant effect on BMI.\nAccept H₀\n+0.0186\n0.226\nBeing consistent over a single week does not lead to a measurable short-term reduction in BMI\n\n\nWeek (Time)\n\\(\\beta_2 = 0\\)  Time has no effect on BMI\n\\(\\beta_2 \\neq 0\\)  Time has a significant effect on BMI\nReject H₀\n-0.0418\n&lt; 0.001\nEach additional week is associated with a −0.0418 unit decrease in BMI, suggesting a significant but gradual improvement trend over time\n\n\nIntercept\n\\(\\beta_0 = 0\\)  No baseline BMI\n\\(\\beta_0 \\neq 0\\)  Nonzero baseline BMI\nReject H₀\n24.471\n&lt; 0.001\nBaseline BMI is approximately 24.5kg/m²"
+  },
+  {
+    "objectID": "Research Project.html#rolling-trend-comparison-plot-for-smoothed-body-fat-between-consistent-and-inconsistent-clients.",
+    "href": "Research Project.html#rolling-trend-comparison-plot-for-smoothed-body-fat-between-consistent-and-inconsistent-clients.",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Rolling-Trend comparison plot for Smoothed Body Fat % between consistent and inconsistent clients.",
+    "text": "Rolling-Trend comparison plot for Smoothed Body Fat % between consistent and inconsistent clients.\n\n\n\n\nSmoothed 4-week rolling trend of body-fat percentage by workout consistency. Clients maintaining consistent workouts (green) showed stable or improving fat percentages, while inconsistent clients (red) experienced a progressive rise. The widening divergence highlights the strong influence of adherence on long-term physiological outcomes."
+  },
+  {
+    "objectID": "Research Project.html#plateau-detection",
+    "href": "Research Project.html#plateau-detection",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Plateau Detection",
+    "text": "Plateau Detection"
+  },
+  {
+    "objectID": "Research Project.html#clustering-overview",
+    "href": "Research Project.html#clustering-overview",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Clustering Overview",
+    "text": "Clustering Overview\n\n\nExtended Analysis: User segmentation via unsupervised learning\nDataset: 80 users tracked over 26 weeks\nMethod: K-Means clustering with 14 engineered features\nGoal: Identify distinct user groups for personalized interventions\n\n\n\nThis section presents the unsupervised learning component of our research, extending the causal and predictive analyses with user segmentation."
+  },
+  {
+    "objectID": "Research Project.html#feature-engineering-for-clustering",
+    "href": "Research Project.html#feature-engineering-for-clustering",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Feature Engineering for Clustering",
+    "text": "Feature Engineering for Clustering\nCreated 14 user-level features across 4 categories:\n\nStatic FeaturesBehavioral FeaturesProgress FeaturesStrength Features\n\n\n\nInitial height, weight, BMI\nInitial body fat %\nAge, sex (dummy coded)\n\n\n\n\nMean workout duration (min)\nMean sleep hours\n\nResilience Index: Mean days per week\n\n\n\n\nWeight change slope (overall)\nBody fat % change slope\nPlateau slopes (last 4 weeks)\n\n\n\n\nBench press 1RM progression\nCalculated using Epley formula: 1RM = weight × (1 + reps/30)"
+  },
+  {
+    "objectID": "Research Project.html#elbow-method-for-optimal-k",
+    "href": "Research Project.html#elbow-method-for-optimal-k",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Elbow Method for Optimal k",
+    "text": "Elbow Method for Optimal k\n\n\n\n\n\n\n\n\n\n\n\n\nSelected: k = 4\n\nClear “elbow” at k=4\nBalances complexity vs. interpretability\nSufficient granularity for personalized recommendations\nValidated through silhouette analysis"
+  },
+  {
+    "objectID": "Research Project.html#cluster-visualization-pca",
+    "href": "Research Project.html#cluster-visualization-pca",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Cluster Visualization (PCA)",
+    "text": "Cluster Visualization (PCA)"
+  },
+  {
+    "objectID": "Research Project.html#cluster-1-young-male-athletes",
+    "href": "Research Project.html#cluster-1-young-male-athletes",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Cluster 1: Young Male Athletes",
+    "text": "Cluster 1: Young Male Athletes\n\n\nDemographics (17 users)\n\nAge: 30.2 years\n100% male\nBMI: 25.2\nBody fat: 11.4%\n\nBehavior\n\n35.2 min/session\n5.9 days/week\n7 hrs sleep\n\n\nProgress\n\nWeight: ▼ 0.148 kg/week\nBody fat: ▲ 0.205%/week\nStrength: ▲ 0 kg/day\n\nProfile: Lean, consistent, making steady gains"
+  },
+  {
+    "objectID": "Research Project.html#cluster-2-middle-aged-improvers",
+    "href": "Research Project.html#cluster-2-middle-aged-improvers",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Cluster 2: Middle-Aged Improvers",
+    "text": "Cluster 2: Middle-Aged Improvers\n\n\nDemographics (30 users)\n\nAge: 39.3 years\n100% male\nBMI: 24.3\nBody fat: 12.6%\n\nBehavior\n\n35.5 min/session\n4.7 days/week\n6.7 hrs sleep\n\n\nProgress\n\nWeight: ▼ 0.115 kg/week\nBody fat: ▲ 0.142%/week\nStrength: ▲ 0.021 kg/day\n\nProfile: Moderate fitness, consistent effort, balanced progress"
+  },
+  {
+    "objectID": "Research Project.html#cluster-3-older-mixed-group",
+    "href": "Research Project.html#cluster-3-older-mixed-group",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Cluster 3: Older Mixed Group",
+    "text": "Cluster 3: Older Mixed Group\n\n\nDemographics (8 users)\n\nAge: 49 years\n38% male\nBMI: 22.6\nBody fat: 18%\n\nBehavior\n\n33.9 min/session\n3.3 days/week\n6.3 hrs sleep\n\n\nProgress\n\nWeight: ▼ 0.065 kg/week\nBody fat: ▲ 0.084%/week\nStrength: ▲ 0.049 kg/day\n\nProfile: Higher body fat, varied gender mix, slower progress"
+  },
+  {
+    "objectID": "Research Project.html#cluster-4-younger-female-focus",
+    "href": "Research Project.html#cluster-4-younger-female-focus",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Cluster 4: Younger Female Focus",
+    "text": "Cluster 4: Younger Female Focus\n\n\nDemographics (25 users)\n\nAge: 35.8 years\n4% male\nBMI: 24.8\nBody fat: 21.4%\n\nBehavior\n\n35.7 min/session\n5.3 days/week\n6.9 hrs sleep\n\n\nProgress\n\nWeight: ▼ 0.11 kg/week\nBody fat: ▲ 0.176%/week\nStrength: ▼ 0.007 kg/day\n\nProfile: Younger demographic, high body fat, active lifestyle"
+  },
+  {
+    "objectID": "Research Project.html#framework-overview",
+    "href": "Research Project.html#framework-overview",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Framework Overview",
+    "text": "Framework Overview\n\nThree key metrics for individualized tracking:\n\n\n\nResilience Index\nAverage workout days per week\nMeasures behavioral consistency\n\nProgress Ratio: Body Fat\n(initial - final) / initial\n% body composition improvement\n\nProgress Ratio: Strength\n(final - initial) / initial\n% strength gains over time"
+  },
+  {
+    "objectID": "Research Project.html#metrics-by-cluster",
+    "href": "Research Project.html#metrics-by-cluster",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Metrics by Cluster",
+    "text": "Metrics by Cluster"
+  },
+  {
+    "objectID": "Research Project.html#actionable-insights-by-cluster",
+    "href": "Research Project.html#actionable-insights-by-cluster",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Actionable Insights by Cluster",
+    "text": "Actionable Insights by Cluster\n\nCluster 1Cluster 2Cluster 3Cluster 4\n\n\n✅ Strengths: High consistency, strong progress trajectory\n⚠️ Watch: Sleep optimization (maintain 7+ hours)\n💡 Recommendation: Continue current program, consider periodization for sustained gains\n\n\n✅ Strengths: Moderate frequency, balanced approach\n⚠️ Watch: Possible plateau indicators in last 4 weeks\n💡 Recommendation: Increase training variation, focus on nutrition optimization\n\n\n✅ Strengths: Active participation despite age\n⚠️ Watch: Lower strength gains, sleep deficit patterns\n💡 Recommendation: Emphasize recovery protocols, adjust progressive overload\n\n\n✅ Strengths: High activity levels, good adherence\n⚠️ Watch: Minimal body composition changes\n💡 Recommendation: Comprehensive nutrition review, increase resistance training focus"
+  },
+  {
+    "objectID": "Research Project.html#implementation-for-fitness-platforms",
+    "href": "Research Project.html#implementation-for-fitness-platforms",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Implementation for Fitness Platforms",
+    "text": "Implementation for Fitness Platforms\n\nPractical Applications:\n\n\nAutomatic Segmentation: Classify new users based on intake assessments\nPersonalized Dashboards: Display cluster-specific metrics and benchmarks\nTargeted Interventions: Deliver recommendations aligned with cluster profiles\nComparative Analytics: Enable users to compare progress against similar profiles\n\n\nBenefits:\n\nEnhanced user engagement through personalization\nData-driven coaching strategies\nEarly identification of at-risk users\nOptimized resource allocation for interventions"
+  },
+  {
+    "objectID": "Research Project.html#clustering-key-takeaways",
+    "href": "Research Project.html#clustering-key-takeaways",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Clustering: Key Takeaways",
+    "text": "Clustering: Key Takeaways\n\n\n4 distinct user segments identified with statistically significant differences\nPersonalized metrics (Resilience Index, Progress Ratios) enable individualized tracking beyond generic stats\nBehavioral consistency strongly correlates with physiological outcomes\nPlateau detection via recent slope analysis enables timely intervention\nScalable framework applicable to larger datasets and real-world fitness applications"
+  },
+  {
+    "objectID": "Research Project.html#future-directions",
+    "href": "Research Project.html#future-directions",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Future Directions",
+    "text": "Future Directions\n\n\n\nShort-term Enhancements\n\nValidate clusters with fitness domain experts\nA/B test cluster-based recommendations\nExtend analysis to additional exercise types\nIncorporate dietary data\n\n\n\n\nLong-term Research\n\nPredictive modeling for individual outcomes\nDynamic re-clustering as users evolve\nIntegration with BSTS forecasting (RQ2)\nSurvival analysis for long-term adherence"
+  },
+  {
+    "objectID": "Research Project.html#concluding-remarks",
+    "href": "Research Project.html#concluding-remarks",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "Concluding Remarks",
+    "text": "Concluding Remarks\n\nIntegrating Causal, Predictive, and Unsupervised Methods:\n\nRQ1 (MSM): Established causal relationship between consistency and outcomes\nRQ2 (BSTS): Enabled early plateau forecasting\n\nRQ3 (Clustering): Identified distinct user segments for personalization\nRQ4 (Metrics): Created interpretable, actionable indices\n\nStatistical Contribution:\nThis research demonstrates how multiple methodological frameworks can be integrated to create a comprehensive, personalized analytics system for fitness data."
+  },
+  {
+    "objectID": "Research Project.html#section",
+    "href": "Research Project.html#section",
+    "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
+    "section": "",
+    "text": "Thank You\n\n\nQuestions & Discussion\n\n\nPurva Puranik & Omkar Ninav\n\n\nDES Pune University — Dept. of Statistics\n\n\n\n\n\n\nDES Pune University | Research Project (SMST604)"
   }
 ]
