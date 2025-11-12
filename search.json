@@ -207,28 +207,28 @@
     "href": "Research Project.html#cluster-1-young-male-athletes",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
     "section": "Cluster 1: Young Male Athletes",
-    "text": "Cluster 1: Young Male Athletes\n\n\nDemographics (17 users)\n\nAge: 30.2 years\n100% male\nBMI: 25.2\nBody fat: 11.4%\n\nBehavior\n\n35.2 min/session\n5.9 days/week\n7 hrs sleep\n\n\nProgress\n\nWeight: ▼ 0.148 kg/week\nBody fat: ▲ 0.205%/week\nStrength: ▲ 0 kg/day\n\nProfile: Lean, consistent, making steady gains"
+    "text": "Cluster 1: Young Male Athletes\n\n\nDemographics (17 users)\n\nAge: 30.2 years\n100% male\nInitial BMI: 25.2\nInitial Body fat: 11.4%\n\nBehavior\n\nWorkout Duration : 35.2 min/session\nWorkout Frequency : 5.9 days/week\nSleep Duration: 7 hrs sleep\n\n\nProgress\n\nWeight: ▼ 0.148 kg/week\nBody fat: ▲ 0.205%/week\nStrength: ▲ 0 kg/day\n\nProfile: Lean, consistent, making steady gains"
   },
   {
     "objectID": "Research Project.html#cluster-2-middle-aged-improvers",
     "href": "Research Project.html#cluster-2-middle-aged-improvers",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
     "section": "Cluster 2: Middle-Aged Improvers",
-    "text": "Cluster 2: Middle-Aged Improvers\n\n\nDemographics (30 users)\n\nAge: 39.3 years\n100% male\nBMI: 24.3\nBody fat: 12.6%\n\nBehavior\n\n35.5 min/session\n4.7 days/week\n6.7 hrs sleep\n\n\nProgress\n\nWeight: ▼ 0.115 kg/week\nBody fat: ▲ 0.142%/week\nStrength: ▲ 0.021 kg/day\n\nProfile: Moderate fitness, consistent effort, balanced progress"
+    "text": "Cluster 2: Middle-Aged Improvers\n\n\nDemographics (30 users)\n\nAge: 39.3 years\n100% male\nInitial BMI: 24.3\nInitial Body fat: 12.6%\n\nBehavior\n\nWorkout Duration : 35.5 min/session\nWorkout Frequency : 4.7 days/week\nSleep Duration: 6.7 hrs sleep\n\n\nProgress\n\nWeight: ▼ 0.115 kg/week\nBody fat: ▲ 0.142%/week\nStrength: ▲ 0.021 kg/day\n\nProfile: Moderate fitness, consistent effort, balanced progress"
   },
   {
     "objectID": "Research Project.html#cluster-3-older-mixed-group",
     "href": "Research Project.html#cluster-3-older-mixed-group",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
     "section": "Cluster 3: Older Mixed Group",
-    "text": "Cluster 3: Older Mixed Group\n\n\nDemographics (8 users)\n\nAge: 49 years\n38% male\nBMI: 22.6\nBody fat: 18%\n\nBehavior\n\n33.9 min/session\n3.3 days/week\n6.3 hrs sleep\n\n\nProgress\n\nWeight: ▼ 0.065 kg/week\nBody fat: ▲ 0.084%/week\nStrength: ▲ 0.049 kg/day\n\nProfile: Higher body fat, varied gender mix, slower progress"
+    "text": "Cluster 3: Older Mixed Group\n\n\nDemographics (8 users)\n\nAge: 49 years\n38% male\nInitial BMI: 22.6\nInitial Body fat: 18%\n\nBehavior\n\nWorkout Duration : 33.9 min/session\nWorkout Frequency : 3.3 days/week\nSleep Duration: 6.3 hrs sleep\n\n\nProgress\n\nWeight: ▼ 0.065 kg/week\nBody fat: ▲ 0.084%/week\nStrength: ▲ 0.049 kg/day\n\nProfile: Higher body fat, varied gender mix, slower progress"
   },
   {
     "objectID": "Research Project.html#cluster-4-younger-female-focus",
     "href": "Research Project.html#cluster-4-younger-female-focus",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
     "section": "Cluster 4: Younger Female Focus",
-    "text": "Cluster 4: Younger Female Focus\n\n\nDemographics (25 users)\n\nAge: 35.8 years\n4% male\nBMI: 24.8\nBody fat: 21.4%\n\nBehavior\n\n35.7 min/session\n5.3 days/week\n6.9 hrs sleep\n\n\nProgress\n\nWeight: ▼ 0.11 kg/week\nBody fat: ▲ 0.176%/week\nStrength: ▼ 0.007 kg/day\n\nProfile: Younger demographic, high body fat, active lifestyle"
+    "text": "Cluster 4: Younger Female Focus\n\n\nDemographics (25 users)\n\nAge: 35.8 years\n4% male\nInitial BMI: 24.8\nInitial Body fat: 21.4%\n\nBehavior\n\nWorkout Duration : 35.7 min/session\nWorkout Frequency : 5.3 days/week\nSleep Duration: 6.9 hrs\n\n\nProgress\n\nWeight: ▼ 0.11 kg/week\nBody fat: ▲ 0.176%/week\nStrength: ▼ 0.007 kg/day\n\nProfile: Younger demographic, high body fat, active lifestyle"
   },
   {
     "objectID": "Research Project.html#framework-overview",
@@ -249,7 +249,7 @@
     "href": "Research Project.html#actionable-insights-by-cluster",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
     "section": "Actionable Insights by Cluster",
-    "text": "Actionable Insights by Cluster\n\nCluster 1Cluster 2Cluster 3Cluster 4\n\n\n✅ Strengths: High consistency, strong progress trajectory\n⚠️ Watch: Sleep optimization (maintain 7+ hours)\n💡 Recommendation: Continue current program, consider periodization for sustained gains\n\n\n✅ Strengths: Moderate frequency, balanced approach\n⚠️ Watch: Possible plateau indicators in last 4 weeks\n💡 Recommendation: Increase training variation, focus on nutrition optimization\n\n\n✅ Strengths: Active participation despite age\n⚠️ Watch: Lower strength gains, sleep deficit patterns\n💡 Recommendation: Emphasize recovery protocols, adjust progressive overload\n\n\n✅ Strengths: High activity levels, good adherence\n⚠️ Watch: Minimal body composition changes\n💡 Recommendation: Comprehensive nutrition review, increase resistance training focus"
+    "text": "Actionable Insights by Cluster\n\nCluster 1Cluster 2Cluster 3Cluster 4\n\n\nStrengths: High consistency, strong progress trajectory\nWatch: Sleep optimization (maintain 7+ hours)\nRecommendation: Continue current program, consider periodization for sustained gains\n\n\nStrengths: Moderate frequency, balanced approach\nWatch: Possible plateau indicators in last 4 weeks\nRecommendation: Increase training variation, focus on nutrition optimization\n\n\nStrengths: Active participation despite age\nWatch: Lower strength gains, sleep deficit patterns\nRecommendation: Emphasize recovery protocols, adjust progressive overload\n\n\nStrengths: High activity levels, good adherence\nWatch: Minimal body composition changes\nRecommendation: Comprehensive nutrition review, increase resistance training focus"
   },
   {
     "objectID": "Research Project.html#implementation-for-fitness-platforms",
@@ -277,7 +277,7 @@
     "href": "Research Project.html#concluding-remarks",
     "title": "Advanced Statistical Analysis of Fitness Data for Predictive Insights & Personalization",
     "section": "Concluding Remarks",
-    "text": "Concluding Remarks\n\nIntegrating Causal, Predictive, and Unsupervised Methods:\n\nRQ1 (MSM): Established causal relationship between consistency and outcomes\nRQ2 (BSTS): Enabled early plateau forecasting\n\nRQ3 (Clustering): Identified distinct user segments for personalization\nRQ4 (Metrics): Created interpretable, actionable indices\n\nStatistical Contribution:\nThis research demonstrates how multiple methodological frameworks can be integrated to create a comprehensive, personalized analytics system for fitness data."
+    "text": "Concluding Remarks\n\nIntegrating Causal, Predictive, and Unsupervised Methods:\n\nRQ1 (MSM): Established causal relationship between consistency and outcomes\nRQ2 (BSTS): Enabled early plateau Detection\n\nRQ3 (Clustering): Identified distinct user segments for personalization\nRQ4 (Metrics): Created interpretable, actionable indices\n\nStatistical Contribution:\nThis research demonstrates how multiple methodological frameworks can be integrated to create a comprehensive, personalized analytics system for fitness data."
   },
   {
     "objectID": "Research Project.html#section",
